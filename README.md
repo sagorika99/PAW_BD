@@ -2,7 +2,7 @@
 
 Adopt and rescue cats and dogs in Bangladesh. Map of rescue alerts and adoptable animals, an adoption board, and posts for people who want to give away or adopt a pet.
 
-Live site: https://paw-aq1lykqnb-paw-bd.vercel.app/
+Live site:  https://paw-bd.vercel.app/ 
 
 Stack: Next.js (App Router) · Supabase (Postgres, Auth, Storage) · Leaflet + OpenStreetMap · Vercel.
 
